@@ -1,2 +1,2 @@
 # testgb
-Test GB repo
+Test GB repo.
